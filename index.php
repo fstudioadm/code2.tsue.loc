@@ -5,7 +5,7 @@
         <title></title>
     </head>
     <body>
-        <a href="/chat"></a>
-        <a href="/qabul"></a>
+        <a href="chat/">Chat</a>
+        <a href="qabul/">Qabul</a>
     </body>
 </html>
