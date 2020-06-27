@@ -1,1 +1,0 @@
-Salom Meni Oqirib tashla

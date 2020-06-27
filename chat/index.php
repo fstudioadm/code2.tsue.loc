@@ -10,6 +10,7 @@
         <div class="messenge-window">
             <div class="messenge-box">
                 <input class="messenge" type="text">
+                <button class="messenge-send" type="button">Send</button>
             </div>
         </div>
     </body>
