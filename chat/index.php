@@ -7,13 +7,9 @@
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
-        <div class="container-lg">
-            <div class="row">
-                <div class="messenge-window">
-                    <div class="messange-box">
-                        <input type="text">
-                    </div>
-                </div>
+        <div class="messenge-window">
+            <div class="messenge-box">
+                <input class="messenge" type="text">
             </div>
         </div>
     </body>
